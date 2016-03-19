@@ -1,0 +1,6 @@
+c:\users\soultex\documents\visual studio 2015\Projects\firstconsole\firstconsole\bin\Debug\firstconsole.exe.config
+c:\users\soultex\documents\visual studio 2015\Projects\firstconsole\firstconsole\bin\Debug\firstconsole.exe
+c:\users\soultex\documents\visual studio 2015\Projects\firstconsole\firstconsole\bin\Debug\firstconsole.pdb
+c:\users\soultex\documents\visual studio 2015\Projects\firstconsole\firstconsole\obj\Debug\firstconsole.csprojResolveAssemblyReference.cache
+c:\users\soultex\documents\visual studio 2015\Projects\firstconsole\firstconsole\obj\Debug\firstconsole.exe
+c:\users\soultex\documents\visual studio 2015\Projects\firstconsole\firstconsole\obj\Debug\firstconsole.pdb
