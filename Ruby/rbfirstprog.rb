@@ -1,2 +1,9 @@
-% ruby
-puts "Hello wrld"
+print "Hello wrld"
+
+
+
+
+
+
+
+
